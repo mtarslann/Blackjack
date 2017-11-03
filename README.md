@@ -1,2 +1,2 @@
 # Blackjack
-Blackjack game implementation againt computer
+Blackjack game implementation against computer
